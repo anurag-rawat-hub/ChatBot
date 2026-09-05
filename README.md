@@ -3,6 +3,9 @@
 
 A conversational Retrieval-Augmented Generation (RAG) application built using LangGraph. This chatbot goes beyond simple question-answering by utilizing stateful memory, tool-calling (web search, RAG as a tool, getting stack price and user defined tool for calculations), and local vector search to provide grounded, real-time responses with low perceived latency via streaming.
 <br><hr>
+<h2>Note: Ignore the test_code files, they were just for practicing</h2>
+<hr>
+
 ## Features
 
 *   **Graph-Based Orchestration (LangGraph):** Complex agent workflows, routing, and tool execution are handled via LangGraph's state graph architecture.
